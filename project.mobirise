@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sam Druant portfolio 3ba",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -762,6 +762,32 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-9776.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9776-800x1023.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "WEVEN",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bioplatsic-sam-9.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/bioplatsic-sam-9-800x1012.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "WEVEN",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bioplatsic-sam-2.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/bioplatsic-sam-2-800x1008.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
